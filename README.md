@@ -69,10 +69,12 @@ Alternativamente, puedes clonar este repositorio y usar Jupyter Notebook localme
 
 ## 📬 Contacto
 Autor/a: Samuel Valencia González
+
 LinkedIn: https://www.linkedin.com/in/samuel-valencia-gonz%C3%A1lez-87a155a3/
+
 Email: samuel.evg@gmail.com
 
-##✅ Estado del proyecto
+## ✅ Estado del proyecto
  - Limpieza de datos
 
  - Visualizaciones e insights
