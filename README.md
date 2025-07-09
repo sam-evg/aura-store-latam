@@ -68,9 +68,9 @@ No requiere instalación local
 Alternativamente, puedes clonar este repositorio y usar Jupyter Notebook localmente
 
 ## 📬 Contacto
-Autor/a: [Tu nombre aquí]
-LinkedIn: https://linkedin.com/in/tuusuario
-Email: tunombre@ejemplo.com
+Autor/a: Samuel Valencia González
+LinkedIn: https://www.linkedin.com/in/samuel-valencia-gonz%C3%A1lez-87a155a3/
+Email: samuel.evg@gmail.com
 
 ##✅ Estado del proyecto
  - Limpieza de datos
